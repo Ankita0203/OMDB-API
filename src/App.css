@@ -1,0 +1,40 @@
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.movie-card {
+  width: 200px;
+  cursor: pointer;
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 8px;
+  transition: transform 0.2s;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+}
+
+.movie-card img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.movie-detail {
+  text-align: center;
+  padding: 20px;
+}
+
+.movie-detail img {
+  max-width: 300px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
