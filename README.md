@@ -1,21 +1,3 @@
-<h1>🎬 OMDB Movie Search App</h1>
-
-<h2>Description:</h2>
-A dynamic web application that fetches and displays movie information using the OMDB API. Users can search movies and view details in real time.
-
-<h2>Key Skills Highlighted:</h2>
-
-API Integration (REST API)
-
-Asynchronous JavaScript (fetch, promises)
-
-DOM Manipulation
-
-Error Handling
-
-<h3>Tech Stack:</h3> JavaScript, HTML, CSS, OMDB API
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
