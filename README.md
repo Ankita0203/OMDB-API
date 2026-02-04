@@ -15,6 +15,8 @@ Error Handling
 
 <h3>Tech Stack:</h3> JavaScript, HTML, CSS, OMDB API
 
+<h1>Deployed Using Vercel:</h1> https://omdb-api-git-main-ankita0203s-projects.vercel.app
+
 
 # Getting Started with Create React App
 
